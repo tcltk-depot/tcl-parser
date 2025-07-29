@@ -1,3 +1,4 @@
 configure* eol=lf
+install-sh eol=lf
 *.m4 eol=lf
 *.in eol=lf
